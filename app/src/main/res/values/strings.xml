@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TaskHub</string>
+    <string name="linearlayout">LinearLayout</string>
+    <string name="ac">AC</string>
+    <string name="bracket">( )</string>
+
+    <string name="question_1">Calculator</string>
+    <string name="question_2">Image Slider</string>
+    <string name="assignment_1">Assignment: 1</string>
+    <string name="result">Result</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="previous_image">Previous Image</string>
+    <string name="next_image">Next Image</string>
+</resources>
